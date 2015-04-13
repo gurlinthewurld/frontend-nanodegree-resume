@@ -1,7 +1,7 @@
 * {
   padding:0;
   margin:0;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 .clearfix {
@@ -87,12 +87,12 @@ a {
 }
 
 #skillsH3 {
-  color: #F5AE23;
+  color: #7F8A7B;
   display: none;
 }
 
 .orange {
-  background-color: #F5AE23;
+  background-color: #7EB2C2;
 }
 
 .orange-text {
@@ -111,12 +111,12 @@ a {
 }
 
 .dark-gray {
-  background-color: #4A4A4A;
+  background-color: #BAD6D6;
 }
 
 /* TODO: Replace with image later */
 #header {
-  background-color: #484848;
+  background-color: #9DC6CF;
 }
 
 .flex-box {
