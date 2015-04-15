@@ -8,7 +8,17 @@
   overflow: auto;
 }
 
-.education-entry, .work-entry, .project-entry {
+.education-entry,  {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.work-entry,  {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.project-entry {
   padding-left: 5%;
   padding-right: 5%;
 }
